@@ -14,7 +14,7 @@ public class InClassTask {
 		System.out.println(names[0][2]+" "+names[1][2]);
 		System.out.println(names[0][3]+" "+names[1][1]);
 		
-		//You can also create a variable to hold
+		//You can also create a variable to hold the names
 		String name=names[0][1]+" "+names[1][0];
 		System.out.println(name);
 		
